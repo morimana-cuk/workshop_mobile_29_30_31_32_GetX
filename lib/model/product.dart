@@ -6,5 +6,5 @@ class Product {
   final double price;
 
   Product(this.id, this.productName, this.productImage, this.productDescription,
-      this.price);
+      this.price, );
 }
